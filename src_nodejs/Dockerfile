@@ -1,4 +1,4 @@
-FROM node:10
+FROM node:14
 
 # WOKR DIR
 WORKDIR /usr/src/app
